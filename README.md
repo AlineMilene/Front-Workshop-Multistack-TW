@@ -19,21 +19,26 @@ Este projeto foi desenvolvido pensando em uma Startup fictícia, chamada de E-Di
 
 ## Tecnologias utilizadas
 ### Back end
+- NodeJs
 - Python
 - Django
 
+
 ### Front end
-- HTML / CSS
-- JavaScript 
+- HTML / CSS / JS 
 - TypeScript
 - NextJS
 - ReactJS
 - React Native
 
+### Bibliotecas
+- Axios
+- Material-UI
+- React Input-Mask
 
 ## Como executar o projeto
 
-### Pré-requisito: [Next.js](https://nextjs.org/)
+**Pré-requisito: [Next.js](https://nextjs.org/)**
 
 ```bash
 # clonar repositório
@@ -48,6 +53,6 @@ yarn dev
 
 ## Autor
 
-Aline Milene Martins dos Santos
+Aline Milene Martins dos Santos - São Paulo - SP
 
 https://www.linkedin.com/in/aline-milene-1b3309193/
