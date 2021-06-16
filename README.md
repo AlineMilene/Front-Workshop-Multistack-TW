@@ -36,6 +36,9 @@ Este projeto foi desenvolvido pensando em uma Startup fictícia, chamada de E-Di
 - Axios
 - Material-UI
 - React Input-Mask
+- Bootstrap CDN
+- Jquery Mask-CDN
+- Jquery CDN
 
 ## Como executar o projeto
 
