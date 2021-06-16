@@ -26,7 +26,7 @@ const Footer = () => {
                     <AppList>
                         <li>
                             <a
-                                href={'/'}
+                                href={'https://github.com/AlineMilene/Workshop-Multistack-TW'}
                                 target={'_blank'}
                                 rel={'noopener noreferrer'}
                             >
@@ -38,7 +38,7 @@ const Footer = () => {
                         </li>
                         <li>
                             <a
-                                href={'/'}
+                                href={'https://github.com/AlineMilene/Workshop-Multistack-TW'}
                                 target={'_blank'}
                                 rel={'noopener noreferrer'}
                             >
