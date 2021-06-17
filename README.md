@@ -19,12 +19,6 @@ Este projeto foi desenvolvido pensando em uma Startup fictícia, chamada de E-Di
 
 
 ## Tecnologias utilizadas
-### Back end
-- NodeJs
-- Python
-- Django
-
-
 ### Front end
 - HTML / CSS / JS 
 - TypeScript
@@ -37,8 +31,6 @@ Este projeto foi desenvolvido pensando em uma Startup fictícia, chamada de E-Di
 - Material-UI
 - React Input-Mask
 - Bootstrap CDN
-- Jquery Mask-CDN
-- Jquery CDN
 
 ## Como executar o projeto
 
