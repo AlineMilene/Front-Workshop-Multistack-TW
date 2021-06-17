@@ -26,7 +26,6 @@ Este projeto foi desenvolvido pensando em uma Startup fictícia, chamada de E-Di
 - TypeScript
 - NextJS
 - ReactJS
-- React Native
 
 ### Bibliotecas
 - Axios
