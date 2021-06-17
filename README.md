@@ -40,7 +40,7 @@ Este projeto foi desenvolvido pensando em uma Startup fictícia, chamada de E-Di
 
 ```bash
 # clonar repositório
-git clone https://github.com/AlineMilene/workshop-multistack-tw
+git clone https://github.com/AlineMilene/Front-end-Workshop-Multistack-TW
 
 # executar o projeto
 npm run dev
