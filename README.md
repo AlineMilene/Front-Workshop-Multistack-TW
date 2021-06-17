@@ -46,6 +46,9 @@ git clone https://github.com/AlineMilene/Front-end-Workshop-Multistack-TW
 npm run dev
 # or
 yarn dev
+
+# acessar via
+http://localhost:3000/
 ```
 
 
