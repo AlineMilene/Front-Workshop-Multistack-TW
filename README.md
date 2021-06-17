@@ -3,6 +3,8 @@
 ### Neste repositório contém a parte estrutural e funcional da aplicação web front-end.
 **Para acessar o back-end, [clique aqui](https://github.com/AlineMilene/Back-end-Workshop-Multistack-TW)**
 
+**Para acessar a versão mobile, [clique aqui](https://github.com/AlineMilene/Mobile-Workshop-Multistack-TW)**
+
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Sobre o projeto
 
